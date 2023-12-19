@@ -8,6 +8,6 @@ model = YOLO('yolov8n.pt')
 # %%
 # Train the model
 results = model.train(task='detect', mode='train', model=model,
-                      data='config.yaml', imgsz=1024, epochs=300)
+                      data='config.yaml', imgsz=1024, epochs=100)
 
 # %%
