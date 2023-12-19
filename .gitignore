@@ -1,0 +1,20 @@
+Backup/
+ImageJ instructions.txt
+Images/
+Process_Folder.ijm
+Sample dataset/
+Screenshot 2023-12-17 221650.png
+basic_cilia_counter.pt
+ciliated_cell_counter.py
+converter.py
+image_rename.py
+image_splitting.py
+logo.ico
+model_testing.py
+model_train.html
+model_train_100.html
+model_train_300.html
+runs/
+sample_cilia_counter_300.pt
+yolov8n.pt
+

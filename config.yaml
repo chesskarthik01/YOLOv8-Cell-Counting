@@ -1,0 +1,15 @@
+path: Sample dataset
+train: Train
+val: Valid
+test: Test
+
+#Classes
+
+nc: 5
+
+names:
+  0: Cell
+  1: Ciliated Cell
+  2: Artefact
+  3: Microtubules
+  4: Sample Damage
